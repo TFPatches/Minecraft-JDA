@@ -1,4 +1,4 @@
-package me.zeroepoch1969.jda;
+package me.totalfreedom.jda;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
