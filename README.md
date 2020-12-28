@@ -1,2 +1,2 @@
 # Minecraft-JDA
-Minecraft plugin version of JDA (It's just a dependency plugin)
+This is a Minecraft plugin version of JDA. On the TotalFreedom Minecraft server, it serves as a dependency for the Discord bot.
